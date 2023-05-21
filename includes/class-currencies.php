@@ -29,7 +29,7 @@ class GFPersian_Currencies extends GFPersian_Core {
 				'symbol_padding'     => ' ',
 				'thousand_separator' => ',',
 				'decimal_separator'  => '.',
-				'decimals'           => 0 ,
+				'decimals'           => 0,
 				'code'               => 'IRR',
 			),
 
@@ -40,7 +40,7 @@ class GFPersian_Currencies extends GFPersian_Core {
 				'symbol_padding'     => ' ',
 				'thousand_separator' => ',',
 				'decimal_separator'  => '.',
-				'decimals'           => 0 ,
+        'decimals'           => 0,
 				'code'               => 'IRHR',
 			),
 
@@ -51,7 +51,7 @@ class GFPersian_Currencies extends GFPersian_Core {
 				'symbol_padding'     => ' ',
 				'thousand_separator' => ',',
 				'decimal_separator'  => '.',
-				'decimals'           => 0 ,
+				'decimals'           => 0,
 				'code'               => 'IRT',
 			),
 
@@ -62,7 +62,7 @@ class GFPersian_Currencies extends GFPersian_Core {
 				'symbol_padding'     => ' ',
 				'thousand_separator' => ',',
 				'decimal_separator'  => '.',
-				'decimals'           => 0 ,
+				'decimals'           => 0,
 				'code'               => 'IRHT',
 			),
 
